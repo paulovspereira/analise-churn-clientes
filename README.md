@@ -1,4 +1,4 @@
-# 📊 Análise de Churn de Clientes com Regressão Logística
+# 📊 Identificação de clientes com maior risco de cancelamento para apoiar estratégias de retenção
 
 ## 👨‍💻 Autor
 
