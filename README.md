@@ -8,8 +8,7 @@ Paulo Pereira – Transição de carreira para Analista de Inteligência Artific
 
 ## 📌 Objetivo
 
-Identificar fatores que influenciam o churn de clientes usando regressão logística.
-
+Identificar clientes com maior risco de cancelamento para apoiar estratégias de retenção.
 ---
 
 ## 📂 Dataset
