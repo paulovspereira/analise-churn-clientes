@@ -1,4 +1,4 @@
-# 📊 Identificação de clientes com maior risco de cancelamento para apoiar estratégias de retenção
+# 📊 Projeto: Análise de Churn de Clientes
 
 ## 👨‍💻 Autor
 
